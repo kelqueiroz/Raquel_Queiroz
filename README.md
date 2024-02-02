@@ -4,6 +4,7 @@
 
 💻 Tecnologia
 
+
 Sou estudante de Análise de Desenvolvimento de sistemas, formada em técnico de informática
 
 ## Linguagens 
