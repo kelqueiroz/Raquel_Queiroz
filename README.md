@@ -1,10 +1,8 @@
-<img src="https://www.leidainformatica.com/wp-content/uploads/2020/05/205-scaled.jpg"></img>
+<img src="./img/pexels-thisisengineering-3861972.jpg"></img>
 
 ## Olá Seja Bem Vindo(a)👋
 
 💻 Tecnologia
-
-Estagiária de Suporte Técnico
 
 Sou estudante de Análise de Desenvolvimento de sistemas, formada em técnico de informática
 
@@ -13,9 +11,8 @@ Sou estudante de Análise de Desenvolvimento de sistemas, formada em técnico de
 
 <div style="display: inline_block"><br>
    
-   
-  <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg"><img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"><img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Raquel-figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg">
  
 </div>
   
