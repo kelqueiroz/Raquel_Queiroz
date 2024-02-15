@@ -4,7 +4,6 @@
 
 💻 Tecnologia
 
-Estagiária de Suporte Técnico
 
 Sou estudante de Análise de Desenvolvimento de sistemas, formada em técnico de informática
 
