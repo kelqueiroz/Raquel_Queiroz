@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/ec/e7/a9/ece7a9a6e02171a404e66e279f41c487.jpg"></img>
+<img src="./Simple Technology LinkedIn Banner (1).png"></img>
 
 ## Olá Seja Bem Vindo(a)👋
 
@@ -11,25 +11,13 @@ Minha trajetória é de migração de carreira para área da tecnologia.
 ### Linguagem
 <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
- ### Databases
- <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg">
-
-
-### Prototipação
-<img align="center" alt="Raquel-figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg"> 
-
-
-### Editor de Código
+ ### Databases   -   Prototipação -Editor de Código -CSS
+ <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg">         <img align="center" alt="Raquel-figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg"> 
 <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg">
-
-### CSS
 <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 
   <div style="display: inline_block"><br> 
   
-
- 
 </div>
   
   ##
