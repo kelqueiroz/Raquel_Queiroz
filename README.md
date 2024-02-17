@@ -2,7 +2,7 @@
 
 ## Olá Seja Bem Vindo(a)👋
 
-💻 Tecnologia
+💻 Tecnologia 
 
 
 Sou estudante de Análise de Desenvolvimento de sistemas e formada em técnico de informática.
