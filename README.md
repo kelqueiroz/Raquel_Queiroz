@@ -1,19 +1,34 @@
-<img src="./img/pexels-thisisengineering-3861972.jpg"></img>
+<img src="https://i.pinimg.com/564x/ec/e7/a9/ece7a9a6e02171a404e66e279f41c487.jpg"></img>
 
 ## Olá Seja Bem Vindo(a)👋
 
 💻 Tecnologia
 
 
-Sou estudante de Análise de Desenvolvimento de sistemas, formada em técnico de informática
+Sou estudante de Análise de Desenvolvimento de sistemas e formada em técnico de informática.
+Minha trajetória é de migração de carreira para área da tecnologia. 
 
-## Linguagens 
+### Linguagem
+<img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ ### Databases
+ <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg">
 
 
-<div style="display: inline_block"><br>
-   
+### Prototipação
+<img align="center" alt="Raquel-figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg"> 
+
+
+### Editor de Código
+<img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg">
+
+### CSS
+<img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+  <div style="display: inline_block"><br> 
   
-  <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg"><img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"><img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Raquel-figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg">
+
  
 </div>
   
