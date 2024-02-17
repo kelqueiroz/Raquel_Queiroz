@@ -1,4 +1,4 @@
-<img src="./Simple Technology LinkedIn Banner (1).png"></img>
+<img src="./img/tema.png"></img>
 
 ## Olá Seja Bem Vindo(a)👋
 
